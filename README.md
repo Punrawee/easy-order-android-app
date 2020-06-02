@@ -1,0 +1,2 @@
+# easy-order-android-app
+What is EasyOrder? This project aims to create both client and server application to help restaurant employees keep track of their order. We also provide a dashboard that can be used by employees and customers alike.  Features Welcome screen for users to enter server's IP address before using it. Menu of the food can automatically fetch from server. Table view for browsing the menu and select the food.
